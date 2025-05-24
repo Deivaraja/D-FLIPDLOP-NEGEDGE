@@ -10,6 +10,8 @@ Quartus prime
 
 **THEORY**
 
+
+
 **D Flip-Flop**
 
 

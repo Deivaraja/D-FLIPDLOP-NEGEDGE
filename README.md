@@ -13,6 +13,7 @@ To implement  D flipflop using verilog and validating their functionality using 
 
 Quartus prime
 
+
 **THEORY**
 
 **D Flip-Flop**
